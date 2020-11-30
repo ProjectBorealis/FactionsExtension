@@ -5,7 +5,7 @@
     "FriendlyName": "Factions Extension",
     "Description": "Add factions and relations in your game using C++ or Blueprints",
     "MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/29a33bd0c38e4b8f9626f495bb47dca8",
-    "Category": "Piperift",
+    "Category": "AI",
     "CreatedBy": "Piperift",
     "CreatedByURL": "http://piperift.com/",
     "DocsURL": "https://piperift.com/FactionsExtension/",
